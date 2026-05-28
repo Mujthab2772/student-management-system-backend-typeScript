@@ -112,30 +112,7 @@ student-management-system/
 ```
 
 ---
-
-# 🧠 OOP Concepts Used
-
-## Inheritance
-
-```txt
-Person
- ├── Student
- └── Teacher
-```
-
-## Polymorphism
-
-Student and Teacher override:
-
-```ts
-getRole()
-```
-
-## Encapsulation
-
-Private service dependencies and controlled business logic.
-
----
+🧠 OOP Concepts Used
 
 # 🧩 SOLID Principles
 
